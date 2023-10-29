@@ -4,7 +4,7 @@ For KlatremisHW, use "seplos-klatremishw" file
 
 ## Supported hardware
 Seplos BMS
-* Multi Seplos BMS 2.0 V16
+* Multiple or standalone Seplos BMS 2.0 V16 (with CAN to master, the master cant be monitored this way over rs485)
 
 ## Requirements
 * ESP32
