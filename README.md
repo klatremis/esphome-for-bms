@@ -10,7 +10,7 @@ Seplos BMS
 * ESP32
 * TTL To RS485 Module with automatic flow control
 * or
-* KlatremisHW/Lilygo t-can 485, *For now only danish customers: https://badenergy.dk/product-category/inverter/inverter-styring/
+* KlatremisHW/Lilygo t-can 485, *For now, only danish customers: https://badenergy.dk/product-category/inverter/inverter-styring/
 
 ## Home Assistant dashboard sensors example
  ![image](https://github.com/klatremis/esphome-for-bms/blob/main/dashboard.jpg)
