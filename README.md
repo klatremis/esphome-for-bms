@@ -7,7 +7,7 @@ Seplos BMS
 * Multi Seplos BMS 2.0 V16
 
 ## Home Assistant dashboard sensors example
- ![image](https://github.com/klatremis/esphome-for-bms/blob/main/dashboard.jpg.jpg)
+ ![image](https://github.com/klatremis/esphome-for-bms/blob/main/dashboard.jpg)
 
 ## Wiring of generic esp32 & TTL module
  ![image](https://github.com/klatremis/esphome-for-bms/blob/main/wiring.jpg)
