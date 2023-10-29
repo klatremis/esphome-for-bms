@@ -9,7 +9,7 @@ Seplos BMS
 ## Requirements
 * ESP32
 * TTL To RS485 Module with automatic flow control
-or
+* or
 * KlatremisHW/Lilygo t-can 485, *For now only danish customers: https://badenergy.dk/product-category/inverter/inverter-styring/
 
 ## Home Assistant dashboard sensors example
