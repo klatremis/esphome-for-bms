@@ -1,6 +1,6 @@
 # esphome-for-bms
-For DIY generic esp32 hardware, use "seplos-esp32" and the wiring below
-For KlatremisHW, use "seplos-klatremishw" file
+* For DIY generic esp32 hardware, use "seplos-esp32" and the wiring below
+* For KlatremisHW, use "seplos-klatremishw" file
 
 ## Supported hardware
 Seplos BMS
