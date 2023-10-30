@@ -1,6 +1,7 @@
 # esphome-for-bms
-* For DIY generic esp32 hardware, use "seplos-esp32" and the wiring below
-* For KlatremisHW, use "seplos-klatremishw" file
+Two solutions
+* DIY generic esp32 & TTL converter hardware, use "seplos-esp32" and the wiring below
+* For KlatremisHW/Lilygo, use "seplos-klatremishw" file
 
 ## Supported hardware
 Seplos BMS
@@ -8,9 +9,12 @@ Seplos BMS
 
 ## Requirements
 * ESP32
-* TTL To RS485 Module with automatic flow control
-* or
+* TTL To RS485 Module with automatic flow control  
+or  
 * KlatremisHW Basic/Lilygo t-can 485, *For now, only danish customers: https://badenergy.dk/product-category/inverter/inverter-styring/
+
+## KlatremisHW solution example
+ ![image](https://github.com/klatremis/esphome-for-bms/blob/main/klatremishw.jpg)
 
 ## Home Assistant dashboard sensors example
  ![image](https://github.com/klatremis/esphome-for-bms/blob/main/dashboard.jpg)
