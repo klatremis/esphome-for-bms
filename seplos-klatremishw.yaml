@@ -2,7 +2,7 @@
 #I just cleaned up for the ease of use. //Klatremis
 
 substitutions:
-  name: seplosbms
+  name: battery-monitor
   device_description: "Monitor Seplos BMS via RS485"
   battery_bank0: "battery bank 0"
   # battery_bank0: "battery bank 1"
