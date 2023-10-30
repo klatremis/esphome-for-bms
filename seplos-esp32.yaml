@@ -127,6 +127,38 @@ sensor:
       name: "${battery_bank0} state of health"
     port_voltage:
       name: "${battery_bank0} port voltage"
+    cell_voltage_1:
+      name: "${battery_bank0} cell voltage 1"
+    cell_voltage_2:
+      name: "${battery_bank0} cell voltage 2"
+    cell_voltage_3:
+      name: "${battery_bank0} cell voltage 3"
+    cell_voltage_4:
+      name: "${battery_bank0} cell voltage 4"
+    cell_voltage_5:
+      name: "${battery_bank0} cell voltage 5"
+    cell_voltage_6:
+      name: "${battery_bank0} cell voltage 6"
+    cell_voltage_7:
+      name: "${battery_bank0} cell voltage 7"
+    cell_voltage_8:
+      name: "${battery_bank0} cell voltage 8"
+    cell_voltage_9:
+      name: "${battery_bank0} cell voltage 9"
+    cell_voltage_10:
+      name: "${battery_bank0} cell voltage 10"
+    cell_voltage_11:
+      name: "${battery_bank0} cell voltage 11"
+    cell_voltage_12:
+      name: "${battery_bank0} cell voltage 12"
+    cell_voltage_13:
+      name: "${battery_bank0} cell voltage 13"
+    cell_voltage_14:
+      name: "${battery_bank0} cell voltage 14"
+    cell_voltage_15:
+      name: "${battery_bank0} cell voltage 15"
+    cell_voltage_16:
+      name: "${battery_bank0} cell voltage 16"
 
   # - platform: seplos_bms
   #   seplos_bms_id: battery_bank1
@@ -178,6 +210,39 @@ sensor:
   #     name: "${battery_bank1} state of health"
   #   port_voltage:
   #     name: "${battery_bank1} port voltage"
+  #   cell_voltage_1:  
+  #     name: "${battery_bank1} cell voltage 1"
+  #   cell_voltage_2:
+  #     name: "${battery_bank1} cell voltage 2"
+  #   cell_voltage_3:
+  #     name: "${battery_bank1} cell voltage 3"
+  #   cell_voltage_4:
+  #     name: "${battery_bank1} cell voltage 4"
+  #   cell_voltage_5:
+  #     name: "${battery_bank1} cell voltage 5"
+  #   cell_voltage_6:
+  #     name: "${battery_bank1} cell voltage 6"
+  #   cell_voltage_7:
+  #     name: "${battery_bank1} cell voltage 7"
+  #   cell_voltage_8:
+  #     name: "${battery_bank1} cell voltage 8"
+  #   cell_voltage_9:
+  #     name: "${battery_bank1} cell voltage 9"
+  #   cell_voltage_10:
+  #     name: "${battery_bank1} cell voltage 10"
+  #   cell_voltage_11:
+  #     name: "${battery_bank1} cell voltage 11"
+  #   cell_voltage_12:
+  #     name: "${battery_bank1} cell voltage 12"
+  #   cell_voltage_13:
+  #     name: "${battery_bank1} cell voltage 13"
+  #   cell_voltage_14:
+  #     name: "${battery_bank1} cell voltage 14"
+  #   cell_voltage_15:
+  #     name: "${battery_bank1} cell voltage 15"
+  #   cell_voltage_16:
+  #     name: "${battery_bank1} cell voltage 16"
+
 
   # - platform: seplos_bms
   #   seplos_bms_id: battery_bank2
@@ -229,3 +294,35 @@ sensor:
   #     name: "${battery_bank2} state of health"
   #   port_voltage:
   #     name: "${battery_bank2} port voltage"
+  #   cell_voltage_1:  
+  #     name: "${battery_bank2} cell voltage 1"
+  #   cell_voltage_2:
+  #     name: "${battery_bank2} cell voltage 2"
+  #   cell_voltage_3:
+  #     name: "${battery_bank2} cell voltage 3"
+  #   cell_voltage_4:
+  #     name: "${battery_bank2} cell voltage 4"
+  #   cell_voltage_5:
+  #     name: "${battery_bank2} cell voltage 5"
+  #   cell_voltage_6:
+  #     name: "${battery_bank2} cell voltage 6"
+  #   cell_voltage_7:
+  #     name: "${battery_bank2} cell voltage 7"
+  #   cell_voltage_8:
+  #     name: "${battery_bank2} cell voltage 8"
+  #   cell_voltage_9:
+  #     name: "${battery_bank2} cell voltage 9"
+  #   cell_voltage_10:
+  #     name: "${battery_bank2} cell voltage 10"
+  #   cell_voltage_11:
+  #     name: "${battery_bank2} cell voltage 11"
+  #   cell_voltage_12:
+  #     name: "${battery_bank2} cell voltage 12"
+  #   cell_voltage_13:
+  #     name: "${battery_bank2} cell voltage 13"
+  #   cell_voltage_14:
+  #     name: "${battery_bank2} cell voltage 14"
+  #   cell_voltage_15:
+  #     name: "${battery_bank2} cell voltage 15"
+  #   cell_voltage_16:
+  #     name: "${battery_bank2} cell voltage 16"
