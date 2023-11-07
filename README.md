@@ -16,12 +16,16 @@ or
 ## KlatremisHW solution example
  ![image](https://github.com/klatremis/esphome-for-bms/blob/main/klatremishw.jpg)
 
-## Home Assistant dashboard sensors examples
- ![image](https://github.com/klatremis/esphome-for-bms/blob/main/all_sensors.jpg)
+## All sensors in Home assistant
+![image](https://github.com/klatremis/esphome-for-bms/blob/main/all_sensors.png)
 
-Thanks to PVPRO/Jonas for the below dashboard example <3 This example can be found in the files (lovelace_dashboard.yaml)
-Link to his page about it: https://github.com/pvprodk/HA-seplos-bms 
- ![image](https://github.com/klatremis/esphome-for-bms/blob/main/all_lovelace_dashboard.jpg)
+## Lovelace dashboard example
+Thanks to PVPRO/Jonas for the below dashboard example <3 Link to his page about it: https://github.com/pvprodk/HA-seplos-bms
+
+This example can be found in the files above (lovelace_dashboard.yaml)
+
+
+![image](https://github.com/klatremis/esphome-for-bms/blob/main/lovelace_dashboard.png)
 
 ## Wiring of generic esp32 & TTL module
 RX / TX between esp and ttl converter may have to be swapped. This seems to be a little different from espboard to espboard.
