@@ -23,6 +23,10 @@ or
 Thanks to PVPRO/Jonas for the below dashboard example <3 Link to his page about it: https://github.com/pvprodk/HA-seplos-bms
 
 This example can be found in the files above (lovelace_dashboard.yaml)
+#### HACS addon requirements
+* custom:button-card
+* custom:bar-card
+* custom:apexcharts-card
 
 
 ![image](https://github.com/klatremis/esphome-for-bms/blob/main/lovelace_dashboard.png)
