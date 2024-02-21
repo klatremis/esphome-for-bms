@@ -1,4 +1,4 @@
-# esphome-for-bms
+# esphome-for-bms -> Based on syssi's great work!
 Two solutions
 * DIY generic esp32 & TTL converter hardware, use "seplos-esp32" and the wiring below
 * For KlatremisHW/Lilygo, use "seplos-klatremishw" file
